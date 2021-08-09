@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 6vh;
+  background: #0267c1
+ }
+
+li {
+display: inline-block;
+justify-content: space-around;
+padding: 10px;
+color: #fff;
+}
+
+
+h1 { 
+  color: #fff;
+}
