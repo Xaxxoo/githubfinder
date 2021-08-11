@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
         <div className='App'>
-            <Navbar logo="GitHub Finder"/>
+            <Navbar logo="GitHub Finder" />
         </div>
     );
   }

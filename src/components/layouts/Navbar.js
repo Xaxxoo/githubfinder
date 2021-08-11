@@ -15,9 +15,9 @@ class Navbar extends Component {
                     {this.props.logo}
                 </h1>
                 <ul>
-                    <li>Link 1</li>
-                    <li>Link 2</li>
-                    <li>Link 3</li>
+                    <li>Home</li>
+                    <li>About</li>
+                    <li>Version</li>
                 </ul>
             </nav>
         </div>
