@@ -9,7 +9,7 @@ const UserItem = ({user: { login, avatar_url, html_url }}) => {
           <div>
               <img src={avatar_url} alt='' />
               <h3>{login}</h3>
-            <a href={html_url}>More</a> 
+            <a href={html_url}>More and More</a> 
           </div>
       );
     
